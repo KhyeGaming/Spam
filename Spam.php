@@ -1,11 +1,11 @@
 ------------------------------------------------|             SPAM TELPON UNLIMETED            |
 ------------------------------------------------
-|      Athor     = Khye Hack        |
+|      Athor     = Khye Hack                   |
 |      Update    = 06 Agustus 2019             |
 |      TooL Spam = Telpon    		       |
 |      GitHub    = -			       |
-|      Youtube   = Khye Gaming               |
-|      Info      = Jangan Terlalu Rusuh Brada|
+|      Youtube   = Khye Gaming                 |
+|      Info      = Jangan Terlalu Rusuh Brada  |
 ------------------------------------------------
 
 <?php
@@ -116,11 +116,11 @@ class prankcall{
 }
 echo " \n";
 echo "------------------------------------------------|             SPAM TELPON UNLIMETED            |------------------------------------------------
-|      Athor     = Khye Hack        |
+|      Athor     = Khye Hack                   |
 |      Update    = 06 Agustus 2019             ||      TooL Spam = Telpon                      |
 |      GitHub    = -                           |
-|      Youtube   = Khye Gaming               |
-|      Info      = Jangan Terlalu Rusuh Brada|
+|      Youtube   = Khye Gaming                 |
+|      Info      = Jangan Terlalu Rusuh Brada  |
 ------------------------------------------------\n";
 echo " \n";
 echo " \n";
